@@ -6,5 +6,7 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-/config/.env*
-/playwright.config.ts
+/config/.env
+/confi/.env.qa
+/config/.env.uat
+playwright.config.ts
